@@ -1,0 +1,108 @@
+/* * {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.nav {
+  text-decoration: none;
+}
+
+.nav-item1,
+.nav-item2,
+.nav-item3 {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+}
+
+.navbar {
+  line-height: 10vh;
+  height: 10vh;
+  box-shadow: rgba(50, 50, 93, 0.23) 0 30px 30px -20px;
+}
+
+.logo {
+  font-size: 30px;
+}
+.nav {
+  color: black;
+  font-size: 20px;
+  padding: 0 10px;
+  margin: 0 10px;
+  text-transform: capitalize;
+}
+
+button {
+  border: none;
+  background: none;
+  font-size: 20px;
+}
+
+.mobile-menu {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .mobile-menu {
+    display: block;
+  }
+
+  .nav-links {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    list-style: none;
+    box-shadow: rgba(50, 50, 93, 0.23) 0 30px 30px -20px;
+    top: 10%;
+    left: 0;
+    transition: all 0.5s ease-in-out;
+    width: 100%;
+    background-color: white;
+    z-index: 1;
+    padding-top: 50px;
+  }
+
+  .nav-links-mobile {
+    display: none;
+  }
+} */
+.nav-link
+{
+  color: white;
+  text-decoration: none;
+  font-size: larger;
+  font-weight: 500;
+}
+.ab
+{
+  font-size: larger;
+  font-weight: 600;
+  text-align: center;
+
+}
+.bas-bas
+{
+  justify-content: space-evenly;
+  text-decoration: none;
+  color: white;
+}
+.navBarMainDiv{
+  position: sticky;
+  top: 0;
+}
+div.sticky{
+  position: fixed;
+  height: fit-content;
+  color: black;
+  width: 100%;
+  height: 90px;
+  background-color: rgba(85, 165, 116, 0.986);
+  padding-bottom: 10px;
+}
+div.sticky.nav-link{
+  color: black;
+}
+.adminNavDiv{
+  display: flex;
+}

@@ -1,0 +1,335 @@
+{
+  "adminlogin": [
+    {
+      "id": "1g3g4",
+      "name": "Admin",
+      "email": "dpn@gmail.com",
+      "password": "12345"
+    }
+  ],
+  "admin": [
+    {
+      "busno": "74",
+      "time": "5:00",
+      "from": "singanallur",
+      "to": "gandhipuram",
+      "id": "2a68"
+    },
+    {
+      "id": "4ddb",
+      "busno": "111",
+      "time": "1:00",
+      "from": "gandhipuram",
+      "to": "thudiayalur"
+    },
+    {
+      "id": "6239",
+      "busno": "42A",
+      "time": "12:00",
+      "from": "gandhipuram",
+      "to": "annur"
+    },
+    {
+      "busno": "32",
+      "time": "2:00",
+      "from": "gandhipuram",
+      "to": "ukkadam",
+      "id": "6854"
+    },
+    {
+      "busno": "1516",
+      "time": "9:00",
+      "from": "ukkadam",
+      "to": "gandhipuram",
+      "id": "79d2"
+    },
+    {
+      "id": "721e",
+      "busno": "12c",
+      "time": "5:00",
+      "from": "ukkadam",
+      "to": "thudiayalur"
+    },
+    {
+      "id": "9638",
+      "busno": "111",
+      "time": "7:00",
+      "from": "ukkadam",
+      "to": "gandhipuram"
+    },
+    {
+      "id": "954e",
+      "busno": "12a",
+      "time": "12",
+      "from": "ukkadam",
+      "to": "gandhipuram"
+    },
+    {
+      "id": "26d9",
+      "busno": "75a",
+      "time": "6.00am",
+      "from": "singanallur",
+      "to": "ukkadam"
+    },
+    {
+      "id": "75e1",
+      "busno": "78a",
+      "time": "12:00",
+      "from": "gandhipuram",
+      "to": "annur"
+    }
+  ],
+  "admin2": [
+    {
+      "busno": "25",
+      "time": "8:00pm",
+      "from": "Salem",
+      "to": "Erode",
+      "id": "1fg67"
+    },
+    {
+      "id": "5g67",
+      "busno": "4",
+      "time": "9:00",
+      "from": "Salem",
+      "to": "coimbatore"
+    },
+    {
+      "id": "4gghj",
+      "busno": "45",
+      "time": "2:00",
+      "from": "coimbatore",
+      "to": "Salem"
+    },
+    {
+      "id": "9i0j",
+      "busno": "45",
+      "time": "4:00",
+      "from": "karur",
+      "to": "Salem"
+    },
+    {
+      "id": "675hg",
+      "busno": "145",
+      "time": "8:00",
+      "from": "karur",
+      "to": "Salem"
+    },
+    {
+      "id": "67hhg",
+      "busno": "145",
+      "time": "10:00",
+      "from": "coimbatore",
+      "to": "Salem"
+    },
+    {
+      "id": "1934",
+      "busno": "23",
+      "time": "3:00pm",
+      "from": "pollachi",
+      "to": "selam"
+    },
+    {
+      "id": "ff8d",
+      "busno": "23",
+      "time": "4:00am",
+      "from": "selam",
+      "to": "erode"
+    },
+    {
+      "id": "2446",
+      "busno": "34",
+      "time": "5:00pm",
+      "from": "erode",
+      "to": "trichy"
+    },
+    {
+      "id": "e4ac",
+      "busno": "75a",
+      "time": "6:00pm",
+      "from": "karur",
+      "to": "erode"
+    }
+  ],
+  "user": [
+    {
+      "name": "Adam",
+      "email": "Ad@gmail.com",
+      "password": "12345",
+      "id": "8e03"
+    },
+    {
+      "id": "ee95",
+      "name": "praksh",
+      "email": "pc@gmail.com",
+      "password": "987654"
+    },
+    {
+      "id": "da5f",
+      "name": "Nk",
+      "email": "nk@gmail.com",
+      "password": "1516"
+    },
+    {
+      "id": "a9dd",
+      "name": "dd",
+      "email": "dd@gmail.com",
+      "password": "7122"
+    },
+    {
+      "id": "f445",
+      "name": "dd2",
+      "email": "dd2@gmail.com",
+      "password": "7502"
+    },
+    {
+      "id": "3fd1",
+      "name": "naveen",
+      "email": "nkg@gmail.com",
+      "password": "9876"
+    },
+    {
+      "id": "1f87",
+      "name": "ghsad",
+      "email": "sdfnln@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "97da",
+      "name": "Sahana",
+      "email": "sahan@gmail.com",
+      "password": "NaveenMama"
+    },
+    {
+      "id": "c1ee",
+      "name": "Sahana",
+      "email": "rithanya@gmail.com",
+      "password": "naveenmama"
+    },
+    {
+      "id": "5f0d",
+      "name": "vki",
+      "email": "vki@gmail.com",
+      "password": "232323"
+    },
+    {
+      "id": "acf0",
+      "name": "welcome",
+      "email": "wel@gmail.com",
+      "password": "343434"
+    },
+    {
+      "id": "8a4a",
+      "name": "welcome",
+      "email": "vki@32.cp",
+      "password": "323232"
+    },
+    {
+      "id": "dccc",
+      "name": "Hema lakshmi",
+      "email": "hema@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "659c",
+      "name": "pc",
+      "email": "pc1516@gmail.com",
+      "password": "151678"
+    },
+    {
+      "id": "91f0",
+      "name": "Karthi",
+      "email": "karthimama@gmail.com",
+      "password": "12345"
+    }
+  ],
+  "visitors": [
+    {
+      "id": "d2f4",
+      "names": "PC",
+      "emial": "pc@gmail.com",
+      "number": "9891655045",
+      "msg": "hi lvu"
+    },
+    {
+      "id": "8c8a",
+      "name": "plc",
+      "email": "plc@gmail.com",
+      "number": "9876543210",
+      "msg": "hi luv 2"
+    },
+    {
+      "id": "6de3",
+      "name": "clp",
+      "email": "clp@gmail.com",
+      "number": "8765432190",
+      "msg": "hi luv11"
+    },
+    {
+      "id": "9a99",
+      "name": "clp",
+      "email": "clp@gmail.com",
+      "number": "8765432190",
+      "msg": "hi luv11"
+    },
+    {
+      "id": "148b",
+      "name": "clp",
+      "email": "clp@gmail.com",
+      "number": "8765432190",
+      "msg": "hi luv11"
+    },
+    {
+      "id": "fa25",
+      "name": "clp",
+      "email": "clp@gmail.com",
+      "number": "8765432190",
+      "msg": "hi luv11"
+    },
+    {
+      "id": "d9dd",
+      "name": "clp",
+      "email": "clp@gmail.com",
+      "number": "8765432190",
+      "msg": "hi luv11"
+    },
+    {
+      "id": "6ee0",
+      "name": "jkhb ",
+      "email": "jbgvjfyjgvh@gmail.com",
+      "number": "876543234567",
+      "msg": "kjhgfxdcv bnm,"
+    },
+    {
+      "id": "c528",
+      "name": "dhivaker",
+      "email": "DD@gmail.com",
+      "number": "9876543210",
+      "msg": "Hi to all"
+    }
+  ],
+  "admin3": [
+    {
+      "id": "bc6f",
+      "busno": "43",
+      "time": "6:00pm",
+      "from": "Kerala",
+      "to": "Mumbai"
+    },
+    {
+      "busno": "34",
+      "time": "10:00pm",
+      "from": "Kerala",
+      "to": "Andhra",
+      "id": "1627"
+    },
+    {
+      "id": "906c",
+      "busno": "64",
+      "time": "8:00pm",
+      "from": "TamilNadu",
+      "to": "Mumbai"
+    }
+  ],
+  "driverData": {}
+}

@@ -1,0 +1,12 @@
+{
+    "BusDetails":[{
+        "busno":"11A",
+        "start":"ukkadam",
+        "end":"gandhipuram"
+    },
+{
+    "busno":"12A",
+        "start":"GH",
+        "end":"RTO"
+}]
+}
